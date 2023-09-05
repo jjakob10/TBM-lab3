@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        ".sequelizerc": "javascript",
+        "stdlib.h": "c",
+        "vector.h": "c",
+        "matrix.h": "c",
+        "list.h": "c",
+        "node.h": "c",
+        "stdio.h": "c",
+        "selection.h": "c",
+        "sort.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c"
+    }
+}

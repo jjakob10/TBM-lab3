@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "debugar codigo",
+            "type": "cppdbg",
+            "request": "launch",
+            "cwd": "${workspaceRoot}",
+            "program": "${workspaceRoot}\\main",
+            "args": ["<", "in/reverse_sorted/1Kreverse_sorted.txt"],
+            "preLaunchTask": "compilacao",
+        }
+    ]
+}
